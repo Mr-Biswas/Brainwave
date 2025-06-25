@@ -2,8 +2,6 @@
 Online 4-8 weeks Virtual Internship on Python [30Aug-30Oct]
 
 Introduction:
-
-
 During my virtual internship, I had the opportunity to work on a series of challenging and rewarding projects, each of which contributed significantly to my growth as a developer. These projects allowed me to learn and apply key concepts in Python programming, database management, GUI development, and user interface design. The projects I worked on include:
 
 1. ATM Machine Simulation
